@@ -1,6 +1,6 @@
 ---
 name: teaching-video-search
-description: 當各學科教師（資訊科技、家政、美術、輔導、自然、綜合等）尋找課堂或雙語教學影片、從教材選定核心概念、比較 YouTube 候選或依回饋再搜尋時使用。以繁體中文進行上位概念解構、強制去術語化檢索、真實候選比對與迭代；支援 pre-A1 是非題及繁中 SRT 字幕。
+description: 當國小到國中各學科教師（資訊科技、家政、美術、輔導、自然、生活、數學、社會、健體、綜合等）尋找課堂或雙語教學影片、從教材選定核心概念、比較 YouTube 候選或依回饋再搜尋時使用。以繁體中文進行上位概念解構、強制去術語化檢索、真實候選比對與迭代；支援 pre-A1 是非題及繁中 SRT 字幕。
 ---
 
 # 雙語教學影片搜尋助教 v3（上位思考＋備課版）
@@ -27,7 +27,7 @@ description: 當各學科教師（資訊科技、家政、美術、輔導、自�
 
 - 科目年級與單一概念（預設 CEFR pre-A1 ~ A1）。
 - 學生看完最重要要記得哪一句話？
-- 影片用途與形式（引起興趣＋說明概念｜有趣幽默｜動畫/布偶劇/真人挑戰｜3–8 分鐘）。
+- 影片用途與形式（引起興趣＋說明概念｜有趣幽默｜動畫/布偶劇/真人挑戰｜3–8 分鐘，國小依下方「依學段調整」表）。
 - 必備時刻（Must-have Moment）：關鍵畫面。
 - 參考影片（可選）。
 
@@ -55,8 +55,25 @@ description: 當各學科教師（資訊科技、家政、美術、輔導、自�
 1. 最終選定紀錄表。
 2. 設計 3–4 題緊扣上位概念與核心目標詞的 CEFR pre-A1 是非題（Yes/No Questions），附 Pause & Ask 口語引導劇本。
    - ❌ 禁問表面劇情細節（如刀子在三明治裡）。
-   - ✅ 直擊核心目標字（step, step-by-step, order）與上位觀念，≤ 7 單字，重複核心字。
-3. 提供自製繁體中文 .srt 字幕翻譯指南（時間軸不動、14–18 中文字/行）。
+   - ✅ 直擊核心目標字（step, step-by-step, order）與上位觀念，≤ 7 單字（國小依下方「依學段調整」表縮短），重複核心字。
+3. 提供自製繁體中文 .srt 字幕翻譯指南（時間軸不動、14–18 中文字/行；國小依下方「依學段調整」表）。
+
+## 依學段調整（Grade Band Adjustments）
+
+先看老師給的年級，再套用對應的設定。老師明確指定的條件優先於下表。
+
+| 項目 | 國小低年級（1–2） | 國小中年級（3–4） | 國小高年級（5–6） | 國中（7–9） |
+| :--- | :--- | :--- | :--- | :--- |
+| 片長 | 1–3 分鐘 | 2–5 分鐘 | 3–6 分鐘 | 3–8 分鐘 |
+| 頻道 | 只用第一級 | 只用第一級 | 第一級為主 | 第一、二級 |
+| 是非題長度 | ≤ 4 個英文字 | ≤ 5 個英文字 | ≤ 6 個英文字 | ≤ 7 個英文字 |
+| 中文字幕 | 不建議用字幕，改由老師暫停口頭說明 | 每行 8–12 字，用語淺白 | 每行 10–14 字 | 每行 14–18 字 |
+
+國小另外注意：
+
+- 課本用語本來就比較白話，第 0 層和第 1 層可以很接近，重點放在第 2、3 層的生活行為與畫面。
+- 「畫面自己會說話」比英文內容更重要：優先選不聽聲音也看得懂的影片。
+- 是非題只用最基礎的字（is, can, big, hot, yes, no 這類），並配合手勢或畫面。
 
 ## 【知識庫核心：頻道與階梯範例】
 
@@ -74,3 +91,12 @@ description: 當各學科教師（資訊科技、家政、美術、輔導、自�
 - 摩擦力：0: friction -> 1: rubbing together, slowing down -> 2: slipping on ice vs grass, world without friction -> 3: forces and motion.
 - 色彩：0: complementary colors -> 1: warm/cool colors -> 2: painting room red vs blue -> 3: how artists tell story.
 - 暖身：0: injury prevention -> 1: warming up muscles -> 2: cold rubber band snaps vs warm stretches -> 3: why do we warm up.
+
+**國小階梯範例：**
+
+- 植物的身體：0: parts of a plant -> 1: roots, stem, leaves -> 2: what happens if a plant has no water -> 3: how plants grow for kids.
+- 磁鐵：0: magnets -> 1: push and pull, stick or not stick -> 2: what sticks to a magnet challenge -> 3: magnet magic for kids.
+- 水的三態：0: states of water -> 1: ice, water, steam -> 2: melting ice race, where did the puddle go -> 3: water cycle for kids.
+- 分數：0: fractions -> 1: equal parts, half -> 2: sharing a pizza fairly -> 3: sharing for kids.
+- 昆蟲：0: insects -> 1: six legs, three body parts -> 2: is a spider an insect -> 3: bugs for kids.
+- 天氣：0: weather -> 1: sunny, rainy, windy -> 2: what to wear today -> 3: why does it rain for kids.
