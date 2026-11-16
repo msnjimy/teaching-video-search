@@ -2,8 +2,8 @@
 
 **Teaching Video Search — an AI skill for bilingual teachers**
 
-幫各科雙語老師找到最適合課堂的 YouTube 英語教學影片，並設計 CEFR pre-A1 課堂 Yes/No 提問。
-Find the best English YouTube video for your class. Get easy Yes/No questions too.
+幫各科雙語老師找到最適合課堂的 YouTube 英語教學影片，並設計 CEFR pre-A1 課堂 Yes/No 提問。適用國小到國中，會依年級自動調整片長、字幕與提問難度。
+Find the best English YouTube video for your class. Get easy Yes/No questions too. For grades 1 to 9.
 
 作者 Author：Jimmy（臺北市天母國中 科技領域教師）
 
